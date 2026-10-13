@@ -1,0 +1,30 @@
+README.md
+  s_fbf509a18784fa::t_08c022001dafbd 1-34
+index.html
+  s_fbf509a18784fa::t_08c022001dafbd 1-147
+src/session-data.js
+  s_fbf509a18784fa::t_08c022001dafbd 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "base_commit_sha": "b02e79d21a14751d6e2b4f9f2c2cb81ffb8bd1cd",
+  "prompts": {},
+  "sessions": {
+    "s_fbf509a18784fa": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a136e5-569b-7c12-b323-ceeb9bc5bd06",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "arthur.santiago@ambevtech.com.br",
+      "custom_attributes": {
+        "subagents_executed": "worker,explorer",
+        "input_tokens": "16376388",
+        "output_tokens": "148964",
+        "cache_read_input_tokens": "15820800",
+        "operation_input_tokens": "56104678",
+        "operation_output_tokens": "469830"
+      }
+    }
+  }
+}
