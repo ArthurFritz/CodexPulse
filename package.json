@@ -1,0 +1,10 @@
+{
+  "name": "codexpulse-session-observability",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static, local-first Codex session performance explorer",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs",
+    "build": "node scripts/build.cjs"
+  }
+}
