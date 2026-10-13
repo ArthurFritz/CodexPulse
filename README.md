@@ -1,4 +1,6 @@
-# CodexPulse
+# [CodexPulse](https://arthurfritz.github.io/CodexPulse/)
+
+[Open Here](https://arthurfritz.github.io/CodexPulse/)
 
 Static, local-first session performance explorer for Codex traces. Imported JSON and Codex rollout JSONL logs are parsed in the browser and are not sent to a server.
 
